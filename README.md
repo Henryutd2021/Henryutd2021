@@ -13,6 +13,7 @@ Documented, runnable frameworks that accompany my research: the formulation with
 | Repository | What it models | Accompanies |
 |---|---|---|
 | [smr-datacenter-cogeneration](https://github.com/Henryutd2021/smr-datacenter-cogeneration) | A small modular reactor supplying a data center with power and steam-driven cooling, against grid supply | *Energy Conversion and Management* (2026, accepted) |
+| [nuclear-hydrogen-integration](https://github.com/Henryutd2021/nuclear-hydrogen-integration) | A nuclear plant with electrolysis, hydrogen storage and ancillary services: hourly operation and lifecycle economics | *Nature Communications* (2026) |
 | [code-delayed-energization](https://github.com/Henryutd2021/code-delayed-energization) | The cost of delayed grid energization for AI data centers, for developers, ratepayers and society | IEEE NAPS 2026 |
 | [txh2-ercot-hydrogen](https://github.com/Henryutd2021/txh2-ercot-hydrogen) | Two-stage stochastic planning of hydrogen in a renewable-rich grid | *International Journal of Hydrogen Energy* (2025) |
 | [ghg-load-regulation](https://github.com/Henryutd2021/ghg-load-regulation) | Re-timing electricity demand by hourly emission intensity | *Cell Reports Sustainability* (2025) |
