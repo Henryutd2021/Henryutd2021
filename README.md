@@ -12,7 +12,7 @@ Documented, runnable frameworks that accompany my research: the formulation with
 
 | Repository | What it models | Accompanies |
 |---|---|---|
-| [smr-datacenter-cogeneration](https://github.com/Henryutd2021/smr-datacenter-cogeneration) | A small modular reactor supplying a data center with power and steam-driven cooling, against grid supply | *Energy Conversion and Management* (2026, accepted) |
+| [smr-datacenter-cogeneration](https://github.com/Henryutd2021/smr-datacenter-cogeneration) | A small modular reactor supplying a data center with power and steam-driven cooling, against grid supply | *Energy Conversion and Management* (2027) |
 | [nuclear-hydrogen-integration](https://github.com/Henryutd2021/nuclear-hydrogen-integration) | A nuclear plant with electrolysis, hydrogen storage and ancillary services: hourly operation and lifecycle economics | *Nature Communications* (2026) |
 | [code-delayed-energization](https://github.com/Henryutd2021/code-delayed-energization) | The cost of delayed energization for AI data centers, for developers, ratepayers and society | IEEE NAPS 2026 |
 | [txh2-ercot-hydrogen](https://github.com/Henryutd2021/txh2-ercot-hydrogen) | Two-stage stochastic planning of hydrogen in a renewable-rich grid | *International Journal of Hydrogen Energy* (2025) |
@@ -25,7 +25,7 @@ Documented, runnable frameworks that accompany my research: the formulation with
 ## Selected publications
 
 - Rethinking the economics and flexibility of U.S. nuclear power through hydrogen integration and policy support. *Nature Communications* (2026). [doi:10.1038/s41467-026-73630-y](https://doi.org/10.1038/s41467-026-73630-y)
-- Techno-economic boundary analysis of small modular reactor cogeneration for hyperscale data center IT and cooling loads. *Energy Conversion and Management* (2026, accepted). [arXiv:2608.10999](https://arxiv.org/abs/2608.10999)
+- Techno-economic boundary analysis of small modular reactor cogeneration for hyperscale data center IT and cooling loads. *Energy Conversion and Management* (2027). [doi:10.1016/j.enconman.2026.122376](https://doi.org/10.1016/j.enconman.2026.122376)
 - Real-time greenhouse gas emission intensity informed demand-side load regulation for power grid decarbonization. *Cell Reports Sustainability* (2025). [doi:10.1016/j.crsus.2025.100367](https://doi.org/10.1016/j.crsus.2025.100367)
 - Hydrogen's role in expanding renewable energy and reducing carbon emissions in Texas. *International Journal of Hydrogen Energy* (2025). [doi:10.1016/j.ijhydene.2025.02.303](https://doi.org/10.1016/j.ijhydene.2025.02.303)
 
